@@ -4,7 +4,7 @@ var game = new Phaser.Game(660, 660, Phaser.AUTO, "gamePart");
 // Global variables
 //------------------------------
 var idle = true; //true if the player has already pressed a key
-var debug = false; //if set at true, it display the debug display
+var debug = false; //if set at true, it displays the debug display
 
 var map; //store the map
 var scrollSpeed = 2;
