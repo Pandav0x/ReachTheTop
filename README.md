@@ -1,3 +1,3 @@
 # ReachTheTop
 
-This is just a little game using the Phaser.io library.
+This is just a simple JS game using the Phaser.io library.
